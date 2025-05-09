@@ -3,18 +3,12 @@
 I am currently pursuing a Master’s degree in Informatics with a concentration in Analytics at Northeastern University in Boston.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>Ma.zhenyu@northeaster.edu</code>  
+<code>markmamy@outlook.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**Nantong University**, Electronic Information Engineering (2019 – 2023)  
 • GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
 #### Research Interests  
-XX, XX, XX, XX.
+Intersection of enbedded systems, Data analytics.
