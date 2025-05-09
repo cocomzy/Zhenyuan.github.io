@@ -1,6 +1,6 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently pursuing a Master’s degree in Informatics with a concentration in Analytics at Northeastern University in Boston.
 
 #### Email  
 <code>XX@XX.XX</code>  
