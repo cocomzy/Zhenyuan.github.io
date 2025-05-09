@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- First-class scholarship at the university level, 2022.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Outstanding Graduation Thesis, Nantong University, 2023. 
